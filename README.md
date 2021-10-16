@@ -11,7 +11,7 @@ Import identities to a wallet
 Select and manage identity from a wallet                          
 
 ### Network Configuration 8 %                         
-reate and use connection profiles
+Create and use connection profiles
 
 Instantiate and connect to a gateway
 
